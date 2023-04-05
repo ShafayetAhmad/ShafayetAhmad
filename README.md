@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shafayet Ahmad Kanon</h1>
-<p> Hi, I'm Shafayet, a pre final-year Computer Science and Engineering student with expertise in Java, JavaScript, React, Spring, and Python. I'm passionate about software development and always eager to learn new technologies. I contribute to open-source projects and have gained valuable experience working collaboratively with other developers. Looking forward to starting my career in software engineering and making a positive impact on the industry. </p>
+<h3> Hi, I'm Shafayet, a pre final-year Computer Science and Engineering student with expertise in Java, JavaScript, React, Spring, and Python. I'm passionate about software development and always eager to learn new technologies. I contribute to open-source projects and have gained valuable experience working collaboratively with other developers. Looking forward to starting my career in software engineering and making a positive impact on the industry. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5hafayet&label=Profile%20views&color=0e75b6&style=flat" alt="5hafayet" /> </p>
 
 - 📫 How to reach me **shafayet.ahmad1@gmail.com**
