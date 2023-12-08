@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Ambitious final-year CSE undergrad with a relentless passion for coding, problem-solving, and innovation. Eager to contribute, collaborate, and make a meaningful impact in the world of technology. Let's create something extraordinary together!
+Ambitious final-year CSE undergrad with a relentless passion for Web Development, Problem-Solving, and Innovation. Eager to contribute, collaborate, and make a meaningful impact in the world of technology. Let's create something extraordinary together!
 
 
 ## 🌐 Socials:
