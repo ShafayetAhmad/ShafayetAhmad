@@ -16,6 +16,8 @@
 
 - 📄 Know about my experiences [https://shafayetahmad.com/Resume.pdf](https://shafayetahmad.com/Resume.pdf)
 
+<div align="center">
+
 ## 🌐 Socials:
 
 <div align="center">
@@ -50,13 +52,9 @@
 <br/>
 <br/>
 
-<div align="center">
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShafayetAhmad&theme=highcontrast&border_radius=10)](https://git.io/streak-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShafayetAhmad&theme=vision_friendly_dark)
-
-</div>
 
 ## 🏆 GitHub Trophies
 
@@ -77,3 +75,5 @@
 ## 💰 You can help me by Donating
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ShafayetAhmad)
+
+</div>
