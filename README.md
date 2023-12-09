@@ -14,6 +14,8 @@ Last semester CSE undergrad with a relentless passion for Web Development, Probl
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShafayetAhmad&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShafayetAhmad&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShafayetAhmad&theme=merko&border_radius=10)](https://git.io/streak-stats)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShafayetAhmad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
