@@ -1,5 +1,8 @@
+<div align="center">
+
 ![Header](./github-header-image-2.png)
 
+</div>
 
 # 💫 About Me:
 
