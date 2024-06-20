@@ -7,14 +7,14 @@
 # 💫 About Me:
 
 <h1 align="center">Hi 👋, I'm Shafayet Ahmad Kanon</h1>
-<h3 align="left">Last semester CSE undergrad with a relentless passion for Web Development, Problem-Solving, and Innovation. Eager to contribute, collaborate, and make a meaningful impact in the world of technology. Let's create something extraordinary together!</h3>
+<h3 align="left">Recent Computer Science and Engineering Graduate with passion for Full Stack Development, Problem-Solving, and Innovation. Eager to contribute, collaborate, and make a meaningful impact in the world of technology. Let's create something extraordinary together!</h3>
 <br/>
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [ShafayetAhmad.Com](ShafayetAhmad.Com)
+- 👨‍💻 All of my projects are available at [https://GitHub.com/ShafayetAhmad](https://github.com/ShafayetAhmad?tab=repositories)
 
-- 📝 I regularly write articles on [blog.ShafayetAhmad.Com](blog.ShafayetAhmad.Com)
+- 📝 I regularly write articles on [Blog.ShafayetAhmad.Com](Blog.ShafayetAhmad.Com)
 
 - 💬 Ask me about **React, Node.js, Express.js, JavaScript, Java, Tailwind**
 
