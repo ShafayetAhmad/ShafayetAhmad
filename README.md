@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [blog.ShafayetAhmad.Com](blog.ShafayetAhmad.Com)
 
-- 💬 Ask me about **React, JavaScript, Java, Tailwind**
+- 💬 Ask me about **React, Node.js, Express.js, JavaScript, Java, Tailwind**
 
 - 📫 How to reach me **shafayet.ahmad1@gmail.com**
 
