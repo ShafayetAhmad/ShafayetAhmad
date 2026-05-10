@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./gh-header.png" alt="header"/>
+<img src="./gh-header-updated.png" alt="header"/>
 
 # Shafayet Ahmad Kanon
 
