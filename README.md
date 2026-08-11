@@ -12,7 +12,7 @@
 
 # About Me
 
-I am a PhD Researcher at the University of Greenwich working on AI-assisted fire engineering workflows, simulation automation, and intelligent safety systems.
+PhD Researcher at the University of Greenwich working on AI-assisted fire engineering workflows, simulation automation, and intelligent safety systems.
 
 My work combines:
 
